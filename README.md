@@ -21,7 +21,7 @@
 | Project | What it is |
 | --- | --- |
 | **SEHAT SAATHI** | AI-powered patient pre-consultation & clinical history intelligence platform — structured, doctor-ready patient summaries before the OPD consultation *(Team MEDICODERS, SLSH)* |
-| [**CellSight — EIS Battery Health Analyzer**](https://github.com/deepeshhh1/cellsight-eis-battery-analyzer) | Electrochemical Impedance Spectroscopy battery diagnostics (AD5933 + ESP32) — Nyquist analysis and State-of-Health grading |
+| [**CellSight — EIS Battery Health Analyzer**](https://github.com/deepeshhh1/cellsight-eis-battery-analyzer) | Electrochemical Impedance Spectroscopy diagnostics (AD5933 + ESP32) — Nyquist analysis and State-of-Health grading |
 | [**TorqueTwin — Sensorless FOC Drive**](https://github.com/deepeshhh1/torquetwin-sensorless-foc) | Sensorless Field-Oriented Control (sliding-mode observer + PLL) with a real-time digital twin and MCSA predictive maintenance |
 | [**GridSync — Grid-Tied Inverter**](https://github.com/deepeshhh1/gridsync-microgrid-inverter) | Inverter control core — SOGI-PLL, PR current control, anti-islanding protection and droop microgrid mode (24 V demo bus) |
 | [**SynchroPhase — GPS PMU**](https://github.com/deepeshhh1/synchrophase-pmu) | GPS-synchronised Phasor Measurement Unit — synchrophasors at 50 fps with IEEE C37.118-style streaming |
@@ -31,9 +31,9 @@
 
 ### 🧰 Tools & technologies
 
-**Core Electrical:** Power Systems · Electrical Machines · Power Electronics · AutoCAD (Electrical Power Demand Calculation)
-**Embedded / IoT:** Arduino · Sensors & Instrumentation · Embedded C
-**Software:** C · Python · HTML/CSS · JavaScript · FastAPI
+**Core Electrical:** Power Systems · Electrical Machines · Power Electronics · Motor Control (FOC) · Battery Systems & BMS · AutoCAD (Electrical Power Demand Calculation)
+**Embedded / IoT:** ESP32 · Arduino · Embedded C/C++ · Sensors & Instrumentation
+**Software:** C · C++ · Python · HTML/CSS · JavaScript · FastAPI
 **Design / BIM:** OpenBuildings Designer · Analytical Modeler
 
 ### 📜 Certifications
