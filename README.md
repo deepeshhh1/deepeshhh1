@@ -21,7 +21,7 @@
 | Project | What it is |
 | --- | --- |
 | **SEHAT SAATHI** | AI-powered patient pre-consultation & clinical history intelligence platform — structured, doctor-ready patient summaries before the OPD consultation *(Team MEDICODERS, SLSH)* |
-| **Plascycle** | Plastic-waste recycling solution — **2nd Prize, State-Level Hackathon** |
+| **Plascycle** | Plastic-waste recycling solution — **2nd Prize, State-Level Hackathon** *(Team Leader: Rahul Koundal)* |
 | **Smart Energy Meter with NILM** | Energy monitoring with Non-Intrusive Load Monitoring to identify appliance-level usage |
 | **Transmission Line Fault Analysis System** | Fault detection and analysis for power transmission lines |
 
