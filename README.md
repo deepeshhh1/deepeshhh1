@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech Electrical Engineering '28 · Rajiv Gandhi Government Engineering College (RGGEC), Kangra</h3>
 
 <p align="center">
-  <b>Core Electrical & EV Enthusiast</b> · IoT & Embedded Systems Builder · State-Level Hackathon Winner
+  <b>Core Electrical & EV Enthusiast</b> · IoT & Embedded Systems Builder 
 </p>
 
 ---
