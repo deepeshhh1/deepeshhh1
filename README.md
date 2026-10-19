@@ -13,21 +13,21 @@
 - 🎓 Pre-final year **Electrical Engineering** student at RGGEC, Kangra (Himachal Pradesh)
 - 🔋 My core interest is **core electrical engineering for the EV sector** — electric motors & drives, power electronics, and battery systems
 - 🛠️ I also build **IoT and embedded systems** prototypes that solve real, ground-level problems
-- 🏆 **Team Leader, MEDICODERS** — we built **SEHAT SAATHI**, an AI-powered patient pre-consultation & clinical history platform, for the State-Level Smart Hackathon (SLSH)
 - 📖 Author of **THE B.TECH PLAYBOOK** — a no-nonsense guide for engineering students (manuscript in progress)
+- 🏆 **Team Leader, MEDICODERS** — we built **SEHAT SAATHI**, an AI-powered patient pre-consultation & clinical history platform, for the State-Level Smart Hackathon (SLSH)
 
 ### 🚀 Featured projects
 
 | Project | What it is |
 | --- | --- |
-| **SEHAT SAATHI** | AI-powered patient pre-consultation & clinical history intelligence platform — structured, doctor-ready patient summaries before the OPD consultation *(Team MEDICODERS, SLSH)* |
 | [**CellSight — EIS Battery Health Analyzer**](https://github.com/deepeshhh1/cellsight-eis-battery-analyzer) | Electrochemical Impedance Spectroscopy diagnostics (AD5933 + ESP32) — Nyquist analysis and State-of-Health grading |
 | [**TorqueTwin — Sensorless FOC Drive**](https://github.com/deepeshhh1/torquetwin-sensorless-foc) | Sensorless Field-Oriented Control (sliding-mode observer + PLL) with a real-time digital twin and MCSA predictive maintenance |
 | [**GridSync — Grid-Tied Inverter**](https://github.com/deepeshhh1/gridsync-microgrid-inverter) | Inverter control core — SOGI-PLL, PR current control, anti-islanding protection and droop microgrid mode (24 V demo bus) |
 | [**SynchroPhase — GPS PMU**](https://github.com/deepeshhh1/synchrophase-pmu) | GPS-synchronised Phasor Measurement Unit — synchrophasors at 50 fps with IEEE C37.118-style streaming |
-| [**Plascycle**](https://github.com/deepeshhh1/plascycle) | Plastic-waste recycling solution — **2nd Prize, State-Level Hackathon** *(Team Leader: Rahul Koundal)* |
 | [**Smart Energy Meter with NILM**](https://github.com/deepeshhh1/smart-energy-meter-nilm) | Energy monitoring with Non-Intrusive Load Monitoring to identify appliance-level usage |
 | [**Transmission Line Fault Analysis System**](https://github.com/deepeshhh1/transmission-line-fault-analysis) | Fault detection and analysis for power transmission lines |
+| **SEHAT SAATHI** | AI-powered patient pre-consultation & clinical history intelligence platform — structured, doctor-ready patient summaries before the OPD consultation *(Team MEDICODERS, SLSH)* |
+| [**Plascycle**](https://github.com/deepeshhh1/plascycle) | Plastic-waste recycling solution — **2nd Prize, State-Level Hackathon** *(Team Leader: Rahul Koundal)* |
 
 ### 🧰 Tools & technologies
 
