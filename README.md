@@ -1,62 +1,37 @@
-<h1 align="center">Hi, I'm Deepesh Chauhan 👋</h1>
+# Deepesh
 
-<h3 align="center">B.Tech Electrical Engineering '28 · Rajiv Gandhi Government Engineering College (RGGEC), Kangra</h3>
+B.Tech Electrical Engineering, 3rd year — Rajiv Gandhi Government Engineering College, Kangra. I'm from Mandi, Himachal Pradesh.
 
-<p align="center">
-  <b>Core Electrical & EV Enthusiast</b> · IoT & Embedded Systems Builder 
-</p>
+I want to work on EVs. Motors and drives, power electronics, batteries — that's where most of my time goes. I also build IoT and embedded stuff when there's a real problem in front of me.
 
----
+## Projects
 
-### ⚡ About me
+**KVault** — a Redis-compatible in-memory store I wrote from scratch in pure Python. RESP protocol, expiry, persistence, the whole thing. I built it to understand how a database actually works inside, not just how to use one.
 
-- 🎓 Pre-final year **Electrical Engineering** student at RGGEC, Kangra (Himachal Pradesh)
-- 🔋 My core interest is **core electrical engineering for the EV sector** — electric motors & drives, power electronics, and battery systems
-- 🛠️ I also build **IoT and embedded systems** prototypes that solve real, ground-level problems
-- 📖 Author of **THE B.TECH PLAYBOOK** — a no-nonsense guide for engineering students (manuscript in progress)
-- 🏆 **Team Leader, MEDICODERS** — we built **SEHAT SAATHI**, an AI-powered patient pre-consultation & clinical history platform, for the State-Level Smart Hackathon (SLSH)
+**CellSight** — battery health analyser using EIS (AD5933 + ESP32). Nyquist analysis, state-of-health grading. Design and firmware stage for now — I haven't tested it on real hardware yet.
 
-### 🚀 Featured projects
+**TorqueTwin** — sensorless field-oriented control for motors, with a digital twin running alongside. Design and simulation stage.
 
-| Project | What it is |
-| --- | --- |
-| [**CellSight — EIS Battery Health Analyzer**](https://github.com/deepeshhh1/cellsight-eis-battery-analyzer) | Electrochemical Impedance Spectroscopy diagnostics (AD5933 + ESP32) — Nyquist analysis and State-of-Health grading |
-| [**TorqueTwin — Sensorless FOC Drive**](https://github.com/deepeshhh1/torquetwin-sensorless-foc) | Sensorless Field-Oriented Control (sliding-mode observer + PLL) with a real-time digital twin and MCSA predictive maintenance |
-| [**GridSync — Grid-Tied Inverter**](https://github.com/deepeshhh1/gridsync-microgrid-inverter) | Inverter control core — SOGI-PLL, PR current control, anti-islanding protection and droop microgrid mode (24 V demo bus) |
-| [**SynchroPhase — GPS PMU**](https://github.com/deepeshhh1/synchrophase-pmu) | GPS-synchronised Phasor Measurement Unit — synchrophasors at 50 fps with IEEE C37.118-style streaming |
-| [**Smart Energy Meter with NILM**](https://github.com/deepeshhh1/smart-energy-meter-nilm) | Energy monitoring with Non-Intrusive Load Monitoring to identify appliance-level usage |
-| [**Transmission Line Fault Analysis System**](https://github.com/deepeshhh1/transmission-line-fault-analysis) | Fault detection and analysis for power transmission lines |
-| **SEHAT SAATHI** | AI-powered patient pre-consultation & clinical history intelligence platform — structured, doctor-ready patient summaries before the OPD consultation *(Team MEDICODERS, SLSH)* |
-| [**Plascycle**](https://github.com/deepeshhh1/plascycle) | Plastic-waste recycling solution — **2nd Prize, State-Level Hackathon** *(Team Leader: Rahul Koundal)* |
+**GridSync** — grid-tied inverter control: SOGI-PLL, anti-islanding, droop mode. Built around a 24 V demo bus.
 
-### 🧰 Tools & technologies
+**SynchroPhase** — GPS-synced phasor measurement unit, 50 frames per second. Design stage.
 
-**Core Electrical:** Power Systems · Electrical Machines · Power Electronics · Motor Control (FOC) · Battery Systems & BMS · AutoCAD (Electrical Power Demand Calculation)
-**Embedded / IoT:** ESP32 · Arduino · Embedded C/C++ · Sensors & Instrumentation
-**Software:** C · C++ · Python · HTML/CSS · JavaScript · FastAPI
-**Design / BIM:** OpenBuildings Designer · Analytical Modeler
+**SEHAT SAATHI** — a patient pre-consultation app our team MEDICODERS built for the state-level hackathon. It turns a patient's history into a short summary for the doctor.
 
-### 📜 Certifications
+**Plascycle** — plastic waste recycling project. 2nd prize at a state-level hackathon. The team was led by Rahul Koundal.
 
-- Bentley Education — BIM Modeler: Basic Electrical Modeling with OpenBuildings Designer
-- Bentley Education — Modeling Structures with Analytical Modeler
-- Bentley Education — Placing Assemblies and Frames on Pipes
-- Infosys Springboard — AutoCAD Case Study: Electrical Power Demand Calculation
+**Smart Energy Meter** and **Transmission Line Fault Analysis** — two projects that started as coursework in my power systems subjects and grew from there.
 
-### 📊 GitHub stats
+## Also
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepeshhh1&show_icons=true&theme=radical" alt="Deepesh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshhh1&layout=compact&theme=radical" alt="Top languages" height="165" />
-</p>
+I'm writing a book for B.Tech students — THE B.TECH PLAYBOOK. Manuscript is still in progress.
 
-### 🤝 Connect with me
+Certifications: Bentley (OpenBuildings electrical modelling), Infosys Springboard (AutoCAD electrical demand calculation).
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepeshhh1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Chauhan-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/deepeshhh1" target="_blank"><img src="https://img.shields.io/badge/Instagram-@deepeshhh1-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
-</p>
+## Skills
 
----
+C, C++, Python, Embedded C, ESP32, Arduino, MATLAB, FastAPI, HTML/CSS/JavaScript, AutoCAD, OpenBuildings Designer.
 
-<p align="center"><i>"Finding rhythm where it gets noisy — art in the ordinary."</i></p>
+## Find me
+
+LinkedIn: linkedin.com/in/deepeshhh1 · Website: oddlab.tech
