@@ -34,4 +34,4 @@ C, C++, Python, Embedded C, ESP32, Arduino, MATLAB, FastAPI, HTML/CSS/JavaScript
 
 ## Find me
 
-LinkedIn: linkedin.com/in/deepeshhh1 · Website: oddlab.tech
+[LinkedIn](https://www.linkedin.com/in/deepeshhh1) · [oddlab.tech](https://oddlab.tech)
