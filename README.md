@@ -22,6 +22,12 @@ I want to work on EVs. Motors and drives, power electronics, batteries — that'
 
 **Smart Energy Meter** and **Transmission Line Fault Analysis** — two projects that started as coursework in my power systems subjects and grew from there.
 
+## Publications
+
+**AASPAS: Proximity-Initiated, Cryptographically Verified Patient Check-In for Outpatient Clinics — Design, Implementation, and Limits** — Zenodo, October 2026. [DOI: 10.5281/zenodo.23838904](https://doi.org/10.5281/zenodo.23838904)
+
+A design-stage paper on proximity-initiated, cryptographically verified patient check-in for outpatient clinics.
+
 ## Also
 
 I'm writing a book for B.Tech students — THE B.TECH PLAYBOOK. Manuscript is still in progress.
